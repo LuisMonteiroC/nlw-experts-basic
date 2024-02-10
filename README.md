@@ -1,2 +1,2 @@
 # nlw-experts-basic
-Forms using HTML, CSS and Js done at Rocketseat event
+Forms using HTML, CSS and JS done at Rocketseat event
